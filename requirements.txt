@@ -5,4 +5,3 @@ scikit-learn
 googlemaps
 requests
 geopy
-pickle-mixin
