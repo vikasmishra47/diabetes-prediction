@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Set the background image
-background_image_url = "https://plus.unsplash.com/premium_photo-1699387204159-184c8e0ac55e"  
+background_image_url = "https://images.unsplash.com/photo-1575654427458-1a5ab2fe6c65"  
 page_bg = f"""
 <style>
 .stApp {{
